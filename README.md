@@ -1,0 +1,1 @@
+# magisk_lenovo_Y70_performance_pac
